@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/book_mark_icon"
+        android:title="북마크"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/book_search_history"
+        android:title="최근 검색어"
+        app:showAsAction="ifRoom" />
+
+</menu>
